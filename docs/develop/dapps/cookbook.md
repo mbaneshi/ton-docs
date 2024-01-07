@@ -1036,7 +1036,7 @@ async function main() {
         })
     );
     const collectionAddress  = new TonWeb.Address('put your collection address');
-    const newCollectionMeta = 'put url fol collection meta';
+    const newCollectionMeta = 'put url full collection meta';
     const newNftCommonMeta = 'put common url for nft meta';
     const royaltyAddress = new TonWeb.Address('put royalty address');
 
